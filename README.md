@@ -82,3 +82,13 @@ See [API](https://api.bots.business/docs#/docs/summary)
 
 
 ![](https://bots.business/images/web-logo.png)
+
+   EASY STEPS TO DEPLOY DEDICATED BY SADSOUL
+
+1. MAKE A BOT FROM BOT FATHER ( https://t.me/BotFather )
+COPY API TOKEN
+2. GO TO BOTS BUSINESS APP THEN CLICK ON NEW BOT THEN PASTE THE API TOKEN IN THE TOKEN BOX KEEP NAME EMPTY.
+3. THEN CLICK ON advanced fields.
+4. THEN PASTE THE KEY THERE BELOW GIT REPOSITORY ( git@github.com:Sadsoul091/CRYPTO_MINING_roBOT.git ) this key in bracket.
+5. THEN CLICK ON THE CLOUD PIC GIVEN IN THE APP SCROLL DOWN AND CLICK ON IMPORT BOT.
+.......YOUR BOT WILL BE IMPORTED.........
